@@ -1,5 +1,9 @@
 Frontend deployed url : https://betalectic-assignment-one.vercel.app/
 Backend deployed url : https://dashboard.render.com/web/srv-d1fonq7fte5s73fp3u20
+### Tech stack :
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,tailwind" />
+</p>
 
 # API Endpoints
 
