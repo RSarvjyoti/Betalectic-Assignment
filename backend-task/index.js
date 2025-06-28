@@ -8,6 +8,7 @@ app.use(express.json());
 const PORT = process.env.PORT || 9080
 const DB_URL = process.env.DB_URL
 
+
 app.get('/', (req, res) => {
     res.send("This is home route.")
 })
